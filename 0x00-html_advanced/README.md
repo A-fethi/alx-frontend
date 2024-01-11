@@ -20,12 +20,12 @@ How to use HTML tags to structure a web page
 
 ## Resources :books:
 Read or watch:
-* [HTML - elements of a web page] (https://intranet.hbtn.io/concepts/139)
-* [HTML 5.2] (https://intranet.hbtn.io/rltoken/0qrWxRjFnohd-DMZwIakuA)
-* [HTML: HyperText Markup Language | MDN] (https://intranet.hbtn.io/rltoken/M-CcOLx8YG8znnc4qxSscg)
-* [HTML Reference - A free guide to all HTML elements and attributes] (https://intranet.hbtn.io/rltoken/5O-P-PsGJ5tXOOmKZwTNvg)
-* [Can I use... Support tables for HTML5, CSS3, etc] (https://intranet.hbtn.io/rltoken/qonyw8QCI9Bf8jjiib9tug)
-* [HTML Cheat Sheet - WebsiteSetup] (https://intranet.hbtn.io/rltoken/IL-IEL5JBB6FuDME5oZNRQ)
+* [HTML - elements of a web page] (https://intranet.alxswe.com/concepts/543)
+* [HTML 5.2] (https://intranet.alxswe.com/rltoken/3ZeSykXeV9rQhzFiW5GHcg)
+* [HTML: HyperText Markup Language | MDN] (https://intranet.alxswe.com/rltoken/XWdv6hMca_9jks7PN2gsbA)
+* [HTML Reference - A free guide to all HTML elements and attributes] (https://intranet.alxswe.com/rltoken/H59e408ohxV9x_tYOWSxvg)
+* [Can I use... Support tables for HTML5, CSS3, etc] (https://intranet.alxswe.com/rltoken/u6RvQ_45Xpw82Awl82NZcg)
+* [HTML Cheat Sheet - WebsiteSetup] (https://intranet.alxswe.com/rltoken/6SV9Z98vlb8iehxHnl9YJg)
 
 ---
 
